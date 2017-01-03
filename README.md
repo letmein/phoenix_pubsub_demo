@@ -1,4 +1,4 @@
-# Demo
+# Redis PubSub Demo
 
 To start your Phoenix app:
 
